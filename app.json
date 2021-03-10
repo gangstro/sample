@@ -1,5 +1,5 @@
 {
-  "name": "XERX SPAM BOLTE MADARCHOD",
+  "name": "GHOULS KI MAA KO CHOOTE OP",
   "description": "SPAM AISA KARUNGA KI SABKI MAA CHUD JAYEGI HUEHUEHUE VMRO",
   "logo": "https://telegra.ph/file/03b56705bd702585d1332.jpg",
     "keywords": [
@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Hell User",
-      "value": "𝙓𝙀𝙍𝙓",
+      "value": "VIKRANT",
       "required": false
     },
     "ALIVE_MSG": {
@@ -73,7 +73,7 @@
     },
     "SUDO_USERS": {
       "description": "SUDO DE IDHER MAMDARCHOMD RANDI KE BACHE",
-      "value": "1369416523 1621295306",
+      "value": "1529675020",
       "required": false
     },
     "API_HASH": {
@@ -82,19 +82,19 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001309372845"
+      "value": "-1001496633134"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-1001309372845"
+      "value": "-1001496633134"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001309372845"
+      "value": "-1001496633134"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-1001309372845"
+       "value": "0"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@HellBoyOP/HellBot#main.py ",
@@ -107,7 +107,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "xerxx",
+      "value": "spammmmerssop",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
@@ -128,9 +128,9 @@
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
       "value": "@Xerxxxx35Bot"
     },
-    "OPEN_WEATHER_MAP_APPID": {
+    "SUDO_COMMAND_HAND_LER": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
-      "required": false
+      "value": ,
     },
     "TZ": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
