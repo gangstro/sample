@@ -128,18 +128,14 @@
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
       "value": "@Xerxxxx35Bot"
     },
-    "SUDO_COMMAND_HAND_LER": {
-      "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
-      "value": ,
-    },
     "TZ": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Kolkata",
       "required": false
     },
-    "PM_DATA": {
+    "SUDO_COMMAND_HAND_LER": {
       "description": "Type DISABLE if you want to disable pm protection... ",
-      "value": "ENABLE",
+      "value": ",",
       "required": false 
     }
   },
