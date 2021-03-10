@@ -73,7 +73,7 @@
     },
     "SUDO_USERS": {
       "description": "SUDO DE IDHER MAMDARCHOMD RANDI KE BACHE",
-      "value": "",
+      "value": "1369416523 1621295306",
       "required": false
     },
     "API_HASH": {
