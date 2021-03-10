@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "The best userbot made by @Kraken_The_BadASS. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @HellBot_Official ",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "XERX SPAM BOLTE MADARCHOD",
+  "description": "SPAM AISA KARUNGA KI SABKI MAA CHUD JAYEGI HUEHUEHUE VMRO",
+  "logo": "https://telegra.ph/file/03b56705bd702585d1332.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -25,6 +25,12 @@
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Hell User",
       "value": "𝙓𝙀𝙍𝙓",
+      "required": false
+    },
+    },
+    "SUDO_USERS": {
+      "description": "SUDO DE IDHER MAA KE LODE RANDI KE BACHE",
+      "value": "1369416523 1621295306",
       "required": false
     },
     "ALIVE_MSG": {
